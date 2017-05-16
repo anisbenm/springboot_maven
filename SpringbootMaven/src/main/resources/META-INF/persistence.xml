@@ -6,6 +6,8 @@
     <class>streaming.entity.Client</class>
     <class>streaming.entity.Hotel</class>
     <class>streaming.entity.Reservation</class>
+    <class>streaming.entity.Mail</class>
+    <class>streaming.entity.Journal</class>
     <properties>
       <property name="javax.persistence.jdbc.url" value="jdbc:derby://localhost:1527/sample2"/>
       <property name="javax.persistence.jdbc.user" value="app"/>
